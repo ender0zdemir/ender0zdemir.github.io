@@ -1,0 +1,11 @@
+# Keep uncropped original photo private and local-only
+profile-pic/profile-origin.jpg
+
+# OS / editor / temporary artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.tmp
+img/_tmp_*
