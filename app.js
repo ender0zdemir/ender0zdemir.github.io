@@ -98,7 +98,7 @@
     {
       id: "balon-avcisi",
       categories: ["games"],
-      image: "img/balon-avcisi.svg",
+      image: "img/balon-avcisi.jpg",
       badge: { tr: "PEGI 3 · 100+ İndirme", en: "PEGI 3 · 100+ Downloads" },
       catLabel: { tr: "Eğitsel Tarama Oyunu", en: "Educational Screening Game" },
       title: {
@@ -129,7 +129,7 @@
     {
       id: "gumus-murekkep",
       categories: ["games"],
-      image: "img/gumus-murekkep.svg",
+      image: "img/gumus-murekkep.jpg",
       badge: { tr: "Maarif Serisi", en: "Maarif Series" },
       catLabel: { tr: "Okuma Yazma Uygulaması", en: "Early Literacy App" },
       title: {
@@ -276,7 +276,7 @@
       platPatreon: "Voice Cast gamepad sesli asistanı ve destekçi paketleri.",
       platYoutube: "WoW Forever yolculuğu, Shorts ve Warcraft Lo-Fi müzik yayınları.",
       platX: "Günlük geliştirme notları, duyurular ve canlı güncellemeler.",
-      footerNote: "GitHub Pages üzerinde barındırılmaktadır · @ender0zdemir",
+      footerNote: "GitHub Pages üzerinde barındırılmaktadır · ender0zdemir.github.io",
       detailsBtn: "Detayları İncele",
       countTpl: (n, total) => `${n} / ${total} proje gösteriliyor`,
       emptyMsg: "Arama kriterinize uygun proje bulunamadı. Farklı bir anahtar kelime veya kategori deneyin.",
@@ -337,7 +337,7 @@
       platPatreon: "Voice Cast gamepad voice assistant & supporter packs.",
       platYoutube: "WoW Forever journeys, Shorts & Warcraft Lo-Fi music streams.",
       platX: "Daily devlogs, releases, and live project updates.",
-      footerNote: "Hosted on GitHub Pages · @ender0zdemir",
+      footerNote: "Hosted on GitHub Pages · ender0zdemir.github.io",
       detailsBtn: "View Details",
       countTpl: (n, total) => `Showing ${n} of ${total} projects`,
       emptyMsg: "No projects match your current filter. Try another keyword or category.",
