@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ender0zdemir.github.io/sitemap.xml
